@@ -3,3 +3,8 @@ dependencies:
   - pip:
     - numpy
     - pandas
+    - spacy
+    - scipy 
+    - scikit - learn
+    - matplotlib
+    - thinc
