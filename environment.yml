@@ -5,6 +5,6 @@ dependencies:
     - pandas
     - spacy
     - scipy 
-    - scikit - learn
+    - scikit-learn
     - matplotlib
     - thinc
